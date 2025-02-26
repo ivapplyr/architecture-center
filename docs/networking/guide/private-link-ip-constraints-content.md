@@ -73,14 +73,13 @@ For more information, see [Azure Private Link pricing](https://azure.microsoft.c
 Principal authors: 
 
 - [Ivens Applyrs](https://www.linkedin.com/in/ivens-applyrs) | Product Manager 2
-- [Jose Angel Fernandez Rodrigues](https://www.linkedin.com/in/jangelfdez) | Senior Specialist GBB
 
 
 Other contributors: 
 
 - [Mick Alberts](https://www.linkedin.com/in/mick-alberts-a24a1414) | Technical Writer 
 - [Shane Bala](https://www.linkedin.com/in/sudarshan-bala) | Program Manager 2
-- [Sumeet Mittal](https://www.linkedin.com/in/mittalsumeet) | Principal Product Manager
+- [Mario Lopez](https://www.linkedin.com/in/mario-lopez3) | Principal Product Manager
 
 *To see non-public LinkedIn profiles, sign in to LinkedIn.*
 
